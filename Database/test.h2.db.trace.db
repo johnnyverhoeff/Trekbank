@@ -1,0 +1,6 @@
+02-26 17:43:21 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "WORKERS" not found; SQL statement:
+insert into workers values(1, 'Klaasje') [42102-170]
+02-26 17:43:21 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "GEBRUIKERS" not found; SQL statement:
+select * from gebruikers [42102-170]
